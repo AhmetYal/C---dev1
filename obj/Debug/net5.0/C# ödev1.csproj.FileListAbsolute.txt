@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\C# ödev1\bin\Debug\net5.0\C# ödev1.exe
+C:\Users\Lenovo\Desktop\C# ödev1\bin\Debug\net5.0\C# ödev1.deps.json
+C:\Users\Lenovo\Desktop\C# ödev1\bin\Debug\net5.0\C# ödev1.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# ödev1\bin\Debug\net5.0\C# ödev1.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\C# ödev1\bin\Debug\net5.0\C# ödev1.dll
+C:\Users\Lenovo\Desktop\C# ödev1\bin\Debug\net5.0\ref\C# ödev1.dll
+C:\Users\Lenovo\Desktop\C# ödev1\bin\Debug\net5.0\C# ödev1.pdb
+C:\Users\Lenovo\Desktop\C# ödev1\obj\Debug\net5.0\C# ödev1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# ödev1\obj\Debug\net5.0\C# ödev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# ödev1\obj\Debug\net5.0\C# ödev1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# ödev1\obj\Debug\net5.0\C# ödev1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# ödev1\obj\Debug\net5.0\C# ödev1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# ödev1\obj\Debug\net5.0\C# ödev1.dll
+C:\Users\Lenovo\Desktop\C# ödev1\obj\Debug\net5.0\ref\C# ödev1.dll
+C:\Users\Lenovo\Desktop\C# ödev1\obj\Debug\net5.0\C# ödev1.pdb
+C:\Users\Lenovo\Desktop\C# ödev1\obj\Debug\net5.0\C# ödev1.genruntimeconfig.cache
